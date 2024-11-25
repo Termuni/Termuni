@@ -1,5 +1,6 @@
 ## Hi, My Name is Seon-Min 👋
 🌱 I used to develop games using Unity.
+
 🔭 I’m currently learning on the projects on Embedded Systems.
 
 Explore my studies and projects on [this-site](https://sweet-burn-478.notion.site/44715b5069a440738d07baa42c7ba646?pvs=4) — your interest is welcome :>
@@ -31,7 +32,7 @@ You can reach by ![Mail](https://img.shields.io/badge/sungad9384@gmail.com-EA433
 # Here's My Secret..,,
 MY [Game-Channel](https://www.youtube.com/@%EC%84%B8%EB%B9%A1%EB%A8%B8/videos)
 
-Edited by - ![Vegas Movie Studio](https://img.shields.io/badge/Vegas%20Movie%Studio-1a1a1a.svg?style=for-the-badge)
+Edited by ![Vegas Movie Studio](https://img.shields.io/badge/Vegas%20Movie%20Studio-1A1A1A.svg?style=for-the-badge)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Termuni)](https://github.com/anuraghazra/github-readme-stats)
