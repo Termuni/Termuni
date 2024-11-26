@@ -3,7 +3,7 @@
 
 🔭 I’m currently learning on the projects on Embedded Systems.
 
-# [Explore more Details aboue Me](https://sweet-burn-478.notion.site/44715b5069a440738d07baa42c7ba646?pvs=4)
+# [Explore more Details about Me on Here](https://sweet-burn-478.notion.site/44715b5069a440738d07baa42c7ba646?pvs=4)
 
 ### What I've Done Before
 ✅Unity Project | 2023.07 ~ 2024.04
