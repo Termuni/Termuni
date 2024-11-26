@@ -13,7 +13,7 @@
 ✅Embedded SW Competition | 2024.06 ~ 2024.11
 
 ## Here's my Status 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Termuni)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Termuni)
 
 # Personal INFO
 Here's my [Youtube-Channel](https://www.youtube.com/@%EA%B0%95%EC%84%A0%EB%AF%BC-d6k/videos) - You can See my Projects and Days on Here!
