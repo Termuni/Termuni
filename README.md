@@ -1,9 +1,9 @@
 ## Hi, My Name is Seon-Min 👋
-🌱 I used to develop games using Unity.
+🌱 I've used to develop games using Unity.
 
 🔭 I’m currently learning on the projects on Embedded Systems.
 
-Explore my studies and projects on [this-site](https://sweet-burn-478.notion.site/44715b5069a440738d07baa42c7ba646?pvs=4) — your interest is welcome :>
+# [Explore more Details aboue Me](https://sweet-burn-478.notion.site/44715b5069a440738d07baa42c7ba646?pvs=4)
 
 ### What I've Done Before
 ✅Unity Project | 2023.07 ~ 2024.04
